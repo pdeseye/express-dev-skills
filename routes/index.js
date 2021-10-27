@@ -1,9 +1,11 @@
 import { Router } from 'express'
 const router = Router()
 
-/* GET home page. */
+/* GET skills page. */
+
+//localhost:3000/skills
 router.get('/', function(req, res) {
-  res.render('index', { title: 'Express' })
+  res.render('index', { title: 'Express Skills' })
 })
 
 export { 

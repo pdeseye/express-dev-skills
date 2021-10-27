@@ -1,8 +1,9 @@
 const skills = [
   {text: 'JavaScript', done: true, _id: 125223},
-  {text: 'HTML', done: false, _id: 127904},
-  {text: 'CSS', done: false, _id: 139608},
-  {text: 'CSS', done: false, _id: 139608},
+  {text: 'HTML', done: true, _id: 127904},
+  {text: 'CSS', done: true, _id: 139614},
+  {text: 'NodeJs', done: false, _id: 159608},
+  {text: 'Express', done: false, _id: 179608},
 
 ]
 
